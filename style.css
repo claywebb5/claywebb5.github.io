@@ -16,3 +16,12 @@ body {
 p {
   text-align: center
 }
+
+h4 {
+  display:inline;
+}
+
+h6 {
+  display:inline;
+  float: right;
+}
