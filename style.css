@@ -1,5 +1,5 @@
 body {
-  background-color: #4444444;
+  background-color: white;
   color: #ddddddd;
   font-family: Ariel, Helvetica, sans-serif;
   margin: 10% 20%;
@@ -10,11 +10,13 @@ body {
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1);
+  background-color: rgba(0,0,0, 0.2);
 }
 
 li {
   margin: 5%;
-  border-bottom: 1px solid;
-  
+}
+
+p {
+  text-align: center
 }
