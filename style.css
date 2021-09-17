@@ -5,6 +5,9 @@ body {
   margin: 10% 20%;
 }
 
+html {
+  border: solid;
+}
 .exp-header {
   text-align: center;
   text-transform: uppercase;
